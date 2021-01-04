@@ -79,6 +79,7 @@ section{
     border-right: 7px solid;
     border-image: linear-gradient(180deg, blue,cyan);
     border-image-slice: 1;
+    background-color: white;
 }
 #junior-developer{
     border-left: 7px solid;
@@ -96,4 +97,9 @@ footer p{
     color: gray;
     font-size: 14px;
     text-align: center;
+}
+.experience-area{
+    background-image: url("images/exp-bg.png");
+    background-repeat: no-repeat;
+    background-position: left;
 }
